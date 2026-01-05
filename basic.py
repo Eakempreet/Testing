@@ -60,7 +60,13 @@ print("Thats so cool!!")
 
 
 """
-very wellk then we dont 
-need 
-them anymore
+i am
+adding 
+comments
+
+
+well i guess we dont need it 
+it is makeing the 
+code just bigger!
+>>>>>>> main
 """
